@@ -14,7 +14,7 @@
             "name": "stephanus-stuff"
         }
     ],
-    "homepage": "https://github.com/ziming/json-field-for-backpack",
+    "homepage": "https://github.com/btrumsey/json-field-for-backpack",
     "keywords": ["Laravel", "Backpack", "Backpack for Laravel", "Addon", "Admin Panel", "Json", "Field"],
     "require": {
         "ext-json": "*",
